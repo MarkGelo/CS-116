@@ -1,0 +1,1107 @@
+Time Interval 1. Smart Appliances turned to Low: 
+178,10000018,Clothes Dryer - Electric
+216,10000022,Air Conditioner - 10000 BTU
+351,10000035,Air Conditioner - 10000 BTU
+854,10000086,Air Conditioner - 10000 BTU
+102,10000011,Refrigerator - Freezer 25 cu. ft. - Side by Side
+109,10000012,Refrigerator - Freezer 25 cu. ft. - Side by Side
+220,10000022,Refrigerator - Freezer 25 cu. ft. - Side by Side
+246,10000025,Refrigerator - Freezer 25 cu. ft. - Side by Side
+362,10000036,Refrigerator - Freezer 25 cu. ft. - Side by Side
+541,10000055,Refrigerator - Freezer 25 cu. ft. - Side by Side
+557,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+559,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+560,10000057,Refrigerator - Freezer 25 cu. ft. - Side by Side
+614,10000062,Refrigerator - Freezer 25 cu. ft. - Side by Side
+771,10000077,Refrigerator - Freezer 25 cu. ft. - Side by Side
+91,10000010,Refrigerator - Freezer 21 cu. ft.- Side by Side
+166,10000017,Refrigerator - Freezer 21 cu. ft.- Side by Side
+181,10000019,Refrigerator - Freezer 21 cu. ft.- Side by Side
+217,10000022,Refrigerator - Freezer 21 cu. ft.- Side by Side
+371,10000037,Refrigerator - Freezer 21 cu. ft.- Side by Side
+398,10000040,Refrigerator - Freezer 21 cu. ft.- Side by Side
+413,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+414,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+431,10000043,Refrigerator - Freezer 21 cu. ft.- Side by Side
+608,10000061,Refrigerator - Freezer 21 cu. ft.- Side by Side
+649,10000065,Refrigerator - Freezer 21 cu. ft.- Side by Side
+716,10000072,Refrigerator - Freezer 21 cu. ft.- Side by Side
+774,10000078,Refrigerator - Freezer 21 cu. ft.- Side by Side
+984,10000100,Refrigerator - Freezer 21 cu. ft.- Side by Side
+800,10000080,Air Conditioner - 7000 BTU
+859,10000086,Air Conditioner - 7000 BTU
+916,10000092,Air Conditioner - 7000 BTU
+15,10000002,Refrigerator - Freezer 24 cu. ft. - Frostfree
+78,10000009,Refrigerator - Freezer 24 cu. ft. - Frostfree
+95,10000010,Refrigerator - Freezer 24 cu. ft. - Frostfree
+204,10000021,Refrigerator - Freezer 24 cu. ft. - Frostfree
+237,10000024,Refrigerator - Freezer 24 cu. ft. - Frostfree
+325,10000033,Refrigerator - Freezer 24 cu. ft. - Frostfree
+489,10000049,Refrigerator - Freezer 24 cu. ft. - Frostfree
+694,10000070,Refrigerator - Freezer 24 cu. ft. - Frostfree
+733,10000074,Refrigerator - Freezer 24 cu. ft. - Frostfree
+787,10000079,Refrigerator - Freezer 24 cu. ft. - Frostfree
+816,10000082,Refrigerator - Freezer 24 cu. ft. - Frostfree
+917,10000092,Refrigerator - Freezer 24 cu. ft. - Frostfree
+25,10000003,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+40,10000005,Freezer - Upright/Chest 17 cu. ft
+188,10000019,Freezer - Upright/Chest 17 cu. ft
+200,10000020,Freezer - Upright/Chest 17 cu. ft
+233,10000024,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+262,10000026,Freezer - Upright/Chest 17 cu. ft
+290,10000029,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+334,10000034,Freezer - Upright/Chest 17 cu. ft
+388,10000039,Freezer - Upright/Chest 17 cu. ft
+391,10000039,Freezer - Upright/Chest 17 cu. ft
+422,10000043,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+442,10000044,Freezer - Upright/Chest 17 cu. ft
+548,10000055,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+556,10000056,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+570,10000057,Freezer - Upright/Chest 17 cu. ft
+664,10000067,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+703,10000071,Freezer - Upright/Chest 17 cu. ft
+797,10000080,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+804,10000081,Freezer - Upright/Chest 17 cu. ft
+885,10000089,Freezer - Upright/Chest 17 cu. ft
+886,10000089,Freezer - Upright/Chest 17 cu. ft
+314,10000032,Refrigerator - 21 cu.ft. - Frostfree
+344,10000034,Refrigerator - 21 cu.ft. - Frostfree
+417,10000042,Refrigerator - 21 cu.ft. - Frostfree
+492,10000050,Refrigerator - 21 cu.ft. - Frostfree
+496,10000050,Refrigerator - 21 cu.ft. - Frostfree
+532,10000054,Refrigerator - 21 cu.ft. - Frostfree
+655,10000066,Refrigerator - 21 cu.ft. - Frostfree
+729,10000073,Refrigerator - 21 cu.ft. - Frostfree
+756,10000076,Refrigerator - 21 cu.ft. - Frostfree
+171,10000018,Refrigerator - 19 cu. ft. - Frostfree
+242,10000024,Refrigerator - 19 cu. ft. - Frostfree
+250,10000025,Refrigerator - 19 cu. ft. - Frostfree
+252,10000025,Refrigerator - 19 cu. ft. - Frostfree
+261,10000026,Refrigerator - 19 cu. ft. - Frostfree
+285,10000029,Refrigerator - 19 cu. ft. - Frostfree
+359,10000036,Refrigerator - 19 cu. ft. - Frostfree
+450,10000045,Refrigerator - 19 cu. ft. - Frostfree
+491,10000050,Refrigerator - 19 cu. ft. - Frostfree
+592,10000060,Refrigerator - 19 cu. ft. - Frostfree
+639,10000064,Refrigerator - 19 cu. ft. - Frostfree
+819,10000082,Refrigerator - 19 cu. ft. - Frostfree
+850,10000086,Refrigerator - 19 cu. ft. - Frostfree
+895,10000090,Refrigerator - 19 cu. ft. - Frostfree
+926,10000093,Refrigerator - 19 cu. ft. - Frostfree
+258,10000026,Fan (Attic)
+346,10000035,Fan (Attic)
+364,10000036,Air Conditioner - 5000 BTU
+531,10000054,Air Conditioner - 5000 BTU
+818,10000082,Air Conditioner - 5000 BTU
+7,10000001,Refrigerator - 17 cu. ft - Frostfree
+9,10000001,Refrigerator - 17 cu. ft - Frostfree
+30,10000003,Refrigerator - 17 cu. ft - Frostfree
+31,10000004,Refrigerator - 17 cu. ft - Frostfree
+45,10000005,Refrigerator - 17 cu. ft - Frostfree
+84,10000009,Refrigerator - 17 cu. ft - Frostfree
+126,10000013,Refrigerator - 17 cu. ft - Frostfree
+144,10000015,Refrigerator - 17 cu. ft - Frostfree
+231,10000023,Refrigerator - 17 cu. ft - Frostfree
+297,10000030,Refrigerator - 17 cu. ft - Frostfree
+316,10000032,Refrigerator - 17 cu. ft - Frostfree
+330,10000033,Refrigerator - 17 cu. ft - Frostfree
+406,10000041,Refrigerator - 17 cu. ft - Frostfree
+500,10000051,Refrigerator - 17 cu. ft - Frostfree
+601,10000060,Refrigerator - 17 cu. ft - Frostfree
+724,10000073,Refrigerator - 17 cu. ft - Frostfree
+809,10000081,Refrigerator - 17 cu. ft - Frostfree
+897,10000090,Refrigerator - 17 cu. ft - Frostfree
+898,10000091,Refrigerator - 17 cu. ft - Frostfree
+915,10000092,Refrigerator - 17 cu. ft - Frostfree
+98,10000011,Refrigerator - 14 cu. ft. - Frostfree
+110,10000012,Refrigerator - 14 cu. ft. - Frostfree
+208,10000021,Refrigerator - 14 cu. ft. - Frostfree
+439,10000044,Refrigerator - 14 cu. ft. - Frostfree
+504,10000051,Refrigerator - 14 cu. ft. - Frostfree
+507,10000051,Refrigerator - 14 cu. ft. - Frostfree
+625,10000063,Refrigerator - 14 cu. ft. - Frostfree
+666,10000067,Refrigerator - 14 cu. ft. - Frostfree
+829,10000083,Refrigerator - 14 cu. ft. - Frostfree
+928,10000094,Refrigerator - 14 cu. ft. - Frostfree
+938,10000095,Refrigerator - 14 cu. ft. - Frostfree
+968,10000098,Refrigerator - 14 cu. ft. - Frostfree
+62,10000007,Computer with Monitor
+990,10000100,Computer with Monitor
+47,10000005,Refrigerator - 14 cu. ft.
+64,10000007,Refrigerator - 14 cu. ft.
+247,10000025,Refrigerator - 14 cu. ft.
+384,10000038,Refrigerator - 14 cu. ft.
+403,10000041,Refrigerator - 14 cu. ft.
+945,10000095,Refrigerator - 14 cu. ft.
+121,10000013,Refrigerator - 1.7 cu. ft.
+177,10000018,Refrigerator - 1.7 cu. ft.
+192,10000020,Refrigerator - 1.7 cu. ft.
+350,10000035,Refrigerator - 1.7 cu. ft.
+428,10000043,Refrigerator - 1.7 cu. ft.
+467,10000047,Refrigerator - 1.7 cu. ft.
+529,10000053,Refrigerator - 1.7 cu. ft.
+593,10000060,Refrigerator - 1.7 cu. ft.
+637,10000064,Refrigerator - 1.7 cu. ft.
+751,10000075,Refrigerator - 1.7 cu. ft.
+791,10000080,Refrigerator - 1.7 cu. ft.
+869,10000088,Refrigerator - 1.7 cu. ft.
+901,10000091,Refrigerator - 1.7 cu. ft.
+912,10000092,Refrigerator - 1.7 cu. ft.
+36,10000004,Air Purifier
+59,10000007,Air Purifier
+72,10000008,Air Purifier
+120,10000013,Air Purifier
+243,10000025,Air Purifier
+277,10000028,Air Purifier
+671,10000067,Air Purifier
+707,10000071,Air Purifier
+723,10000073,Air Purifier
+857,10000086,Air Purifier
+954,10000096,Air Purifier
+249,10000025,Laptop
+Time Interval 2. Smart Appliances turned to Low: 
+151,10000016,Air Conditioner - 10000 BTU
+351,10000035,Air Conditioner - 10000 BTU
+652,10000065,Air Conditioner - 10000 BTU
+854,10000086,Air Conditioner - 10000 BTU
+102,10000011,Refrigerator - Freezer 25 cu. ft. - Side by Side
+109,10000012,Refrigerator - Freezer 25 cu. ft. - Side by Side
+220,10000022,Refrigerator - Freezer 25 cu. ft. - Side by Side
+246,10000025,Refrigerator - Freezer 25 cu. ft. - Side by Side
+362,10000036,Refrigerator - Freezer 25 cu. ft. - Side by Side
+541,10000055,Refrigerator - Freezer 25 cu. ft. - Side by Side
+557,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+559,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+560,10000057,Refrigerator - Freezer 25 cu. ft. - Side by Side
+614,10000062,Refrigerator - Freezer 25 cu. ft. - Side by Side
+771,10000077,Refrigerator - Freezer 25 cu. ft. - Side by Side
+91,10000010,Refrigerator - Freezer 21 cu. ft.- Side by Side
+166,10000017,Refrigerator - Freezer 21 cu. ft.- Side by Side
+181,10000019,Refrigerator - Freezer 21 cu. ft.- Side by Side
+217,10000022,Refrigerator - Freezer 21 cu. ft.- Side by Side
+371,10000037,Refrigerator - Freezer 21 cu. ft.- Side by Side
+398,10000040,Refrigerator - Freezer 21 cu. ft.- Side by Side
+413,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+414,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+431,10000043,Refrigerator - Freezer 21 cu. ft.- Side by Side
+608,10000061,Refrigerator - Freezer 21 cu. ft.- Side by Side
+649,10000065,Refrigerator - Freezer 21 cu. ft.- Side by Side
+716,10000072,Refrigerator - Freezer 21 cu. ft.- Side by Side
+774,10000078,Refrigerator - Freezer 21 cu. ft.- Side by Side
+984,10000100,Refrigerator - Freezer 21 cu. ft.- Side by Side
+183,10000019,Air Conditioner - 7000 BTU
+495,10000050,Air Conditioner - 7000 BTU
+916,10000092,Air Conditioner - 7000 BTU
+15,10000002,Refrigerator - Freezer 24 cu. ft. - Frostfree
+78,10000009,Refrigerator - Freezer 24 cu. ft. - Frostfree
+95,10000010,Refrigerator - Freezer 24 cu. ft. - Frostfree
+204,10000021,Refrigerator - Freezer 24 cu. ft. - Frostfree
+237,10000024,Refrigerator - Freezer 24 cu. ft. - Frostfree
+325,10000033,Refrigerator - Freezer 24 cu. ft. - Frostfree
+489,10000049,Refrigerator - Freezer 24 cu. ft. - Frostfree
+694,10000070,Refrigerator - Freezer 24 cu. ft. - Frostfree
+733,10000074,Refrigerator - Freezer 24 cu. ft. - Frostfree
+787,10000079,Refrigerator - Freezer 24 cu. ft. - Frostfree
+816,10000082,Refrigerator - Freezer 24 cu. ft. - Frostfree
+917,10000092,Refrigerator - Freezer 24 cu. ft. - Frostfree
+25,10000003,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+40,10000005,Freezer - Upright/Chest 17 cu. ft
+188,10000019,Freezer - Upright/Chest 17 cu. ft
+200,10000020,Freezer - Upright/Chest 17 cu. ft
+233,10000024,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+262,10000026,Freezer - Upright/Chest 17 cu. ft
+290,10000029,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+334,10000034,Freezer - Upright/Chest 17 cu. ft
+388,10000039,Freezer - Upright/Chest 17 cu. ft
+391,10000039,Freezer - Upright/Chest 17 cu. ft
+422,10000043,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+442,10000044,Freezer - Upright/Chest 17 cu. ft
+548,10000055,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+556,10000056,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+570,10000057,Freezer - Upright/Chest 17 cu. ft
+664,10000067,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+703,10000071,Freezer - Upright/Chest 17 cu. ft
+797,10000080,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+804,10000081,Freezer - Upright/Chest 17 cu. ft
+885,10000089,Freezer - Upright/Chest 17 cu. ft
+886,10000089,Freezer - Upright/Chest 17 cu. ft
+314,10000032,Refrigerator - 21 cu.ft. - Frostfree
+344,10000034,Refrigerator - 21 cu.ft. - Frostfree
+417,10000042,Refrigerator - 21 cu.ft. - Frostfree
+492,10000050,Refrigerator - 21 cu.ft. - Frostfree
+496,10000050,Refrigerator - 21 cu.ft. - Frostfree
+532,10000054,Refrigerator - 21 cu.ft. - Frostfree
+655,10000066,Refrigerator - 21 cu.ft. - Frostfree
+729,10000073,Refrigerator - 21 cu.ft. - Frostfree
+756,10000076,Refrigerator - 21 cu.ft. - Frostfree
+171,10000018,Refrigerator - 19 cu. ft. - Frostfree
+242,10000024,Refrigerator - 19 cu. ft. - Frostfree
+250,10000025,Refrigerator - 19 cu. ft. - Frostfree
+252,10000025,Refrigerator - 19 cu. ft. - Frostfree
+261,10000026,Refrigerator - 19 cu. ft. - Frostfree
+285,10000029,Refrigerator - 19 cu. ft. - Frostfree
+359,10000036,Refrigerator - 19 cu. ft. - Frostfree
+450,10000045,Refrigerator - 19 cu. ft. - Frostfree
+491,10000050,Refrigerator - 19 cu. ft. - Frostfree
+592,10000060,Refrigerator - 19 cu. ft. - Frostfree
+639,10000064,Refrigerator - 19 cu. ft. - Frostfree
+819,10000082,Refrigerator - 19 cu. ft. - Frostfree
+850,10000086,Refrigerator - 19 cu. ft. - Frostfree
+895,10000090,Refrigerator - 19 cu. ft. - Frostfree
+926,10000093,Refrigerator - 19 cu. ft. - Frostfree
+75,10000008,Air Conditioner - 5000 BTU
+364,10000036,Air Conditioner - 5000 BTU
+449,10000045,Air Conditioner - 5000 BTU
+452,10000045,Air Conditioner - 5000 BTU
+7,10000001,Refrigerator - 17 cu. ft - Frostfree
+9,10000001,Refrigerator - 17 cu. ft - Frostfree
+30,10000003,Refrigerator - 17 cu. ft - Frostfree
+31,10000004,Refrigerator - 17 cu. ft - Frostfree
+45,10000005,Refrigerator - 17 cu. ft - Frostfree
+84,10000009,Refrigerator - 17 cu. ft - Frostfree
+126,10000013,Refrigerator - 17 cu. ft - Frostfree
+144,10000015,Refrigerator - 17 cu. ft - Frostfree
+231,10000023,Refrigerator - 17 cu. ft - Frostfree
+297,10000030,Refrigerator - 17 cu. ft - Frostfree
+316,10000032,Refrigerator - 17 cu. ft - Frostfree
+330,10000033,Refrigerator - 17 cu. ft - Frostfree
+406,10000041,Refrigerator - 17 cu. ft - Frostfree
+500,10000051,Refrigerator - 17 cu. ft - Frostfree
+601,10000060,Refrigerator - 17 cu. ft - Frostfree
+724,10000073,Refrigerator - 17 cu. ft - Frostfree
+809,10000081,Refrigerator - 17 cu. ft - Frostfree
+897,10000090,Refrigerator - 17 cu. ft - Frostfree
+898,10000091,Refrigerator - 17 cu. ft - Frostfree
+915,10000092,Refrigerator - 17 cu. ft - Frostfree
+98,10000011,Refrigerator - 14 cu. ft. - Frostfree
+110,10000012,Refrigerator - 14 cu. ft. - Frostfree
+208,10000021,Refrigerator - 14 cu. ft. - Frostfree
+439,10000044,Refrigerator - 14 cu. ft. - Frostfree
+504,10000051,Refrigerator - 14 cu. ft. - Frostfree
+507,10000051,Refrigerator - 14 cu. ft. - Frostfree
+625,10000063,Refrigerator - 14 cu. ft. - Frostfree
+666,10000067,Refrigerator - 14 cu. ft. - Frostfree
+829,10000083,Refrigerator - 14 cu. ft. - Frostfree
+928,10000094,Refrigerator - 14 cu. ft. - Frostfree
+938,10000095,Refrigerator - 14 cu. ft. - Frostfree
+968,10000098,Refrigerator - 14 cu. ft. - Frostfree
+62,10000007,Computer with Monitor
+558,10000056,Computer with Monitor
+678,10000068,Computer with Monitor
+990,10000100,Computer with Monitor
+47,10000005,Refrigerator - 14 cu. ft.
+64,10000007,Refrigerator - 14 cu. ft.
+247,10000025,Refrigerator - 14 cu. ft.
+384,10000038,Refrigerator - 14 cu. ft.
+403,10000041,Refrigerator - 14 cu. ft.
+945,10000095,Refrigerator - 14 cu. ft.
+121,10000013,Refrigerator - 1.7 cu. ft.
+177,10000018,Refrigerator - 1.7 cu. ft.
+192,10000020,Refrigerator - 1.7 cu. ft.
+350,10000035,Refrigerator - 1.7 cu. ft.
+428,10000043,Refrigerator - 1.7 cu. ft.
+467,10000047,Refrigerator - 1.7 cu. ft.
+529,10000053,Refrigerator - 1.7 cu. ft.
+593,10000060,Refrigerator - 1.7 cu. ft.
+637,10000064,Refrigerator - 1.7 cu. ft.
+751,10000075,Refrigerator - 1.7 cu. ft.
+791,10000080,Refrigerator - 1.7 cu. ft.
+869,10000088,Refrigerator - 1.7 cu. ft.
+901,10000091,Refrigerator - 1.7 cu. ft.
+912,10000092,Refrigerator - 1.7 cu. ft.
+36,10000004,Air Purifier
+59,10000007,Air Purifier
+72,10000008,Air Purifier
+120,10000013,Air Purifier
+243,10000025,Air Purifier
+277,10000028,Air Purifier
+671,10000067,Air Purifier
+707,10000071,Air Purifier
+723,10000073,Air Purifier
+857,10000086,Air Purifier
+954,10000096,Air Purifier
+94,10000010,Laptop
+162,10000017,Laptop
+345,10000035,Laptop
+908,10000092,Laptop
+927,10000094,Laptop
+Time Interval 3. Smart Appliances turned to Low: 
+83,10000009,Air Conditioner - 10000 BTU
+216,10000022,Air Conditioner - 10000 BTU
+652,10000065,Air Conditioner - 10000 BTU
+102,10000011,Refrigerator - Freezer 25 cu. ft. - Side by Side
+109,10000012,Refrigerator - Freezer 25 cu. ft. - Side by Side
+220,10000022,Refrigerator - Freezer 25 cu. ft. - Side by Side
+246,10000025,Refrigerator - Freezer 25 cu. ft. - Side by Side
+362,10000036,Refrigerator - Freezer 25 cu. ft. - Side by Side
+541,10000055,Refrigerator - Freezer 25 cu. ft. - Side by Side
+557,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+559,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+560,10000057,Refrigerator - Freezer 25 cu. ft. - Side by Side
+614,10000062,Refrigerator - Freezer 25 cu. ft. - Side by Side
+771,10000077,Refrigerator - Freezer 25 cu. ft. - Side by Side
+91,10000010,Refrigerator - Freezer 21 cu. ft.- Side by Side
+166,10000017,Refrigerator - Freezer 21 cu. ft.- Side by Side
+181,10000019,Refrigerator - Freezer 21 cu. ft.- Side by Side
+217,10000022,Refrigerator - Freezer 21 cu. ft.- Side by Side
+371,10000037,Refrigerator - Freezer 21 cu. ft.- Side by Side
+398,10000040,Refrigerator - Freezer 21 cu. ft.- Side by Side
+413,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+414,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+431,10000043,Refrigerator - Freezer 21 cu. ft.- Side by Side
+608,10000061,Refrigerator - Freezer 21 cu. ft.- Side by Side
+649,10000065,Refrigerator - Freezer 21 cu. ft.- Side by Side
+716,10000072,Refrigerator - Freezer 21 cu. ft.- Side by Side
+774,10000078,Refrigerator - Freezer 21 cu. ft.- Side by Side
+984,10000100,Refrigerator - Freezer 21 cu. ft.- Side by Side
+457,10000046,Air Conditioner - 7000 BTU
+805,10000081,Air Conditioner - 7000 BTU
+15,10000002,Refrigerator - Freezer 24 cu. ft. - Frostfree
+78,10000009,Refrigerator - Freezer 24 cu. ft. - Frostfree
+95,10000010,Refrigerator - Freezer 24 cu. ft. - Frostfree
+204,10000021,Refrigerator - Freezer 24 cu. ft. - Frostfree
+237,10000024,Refrigerator - Freezer 24 cu. ft. - Frostfree
+325,10000033,Refrigerator - Freezer 24 cu. ft. - Frostfree
+489,10000049,Refrigerator - Freezer 24 cu. ft. - Frostfree
+694,10000070,Refrigerator - Freezer 24 cu. ft. - Frostfree
+733,10000074,Refrigerator - Freezer 24 cu. ft. - Frostfree
+787,10000079,Refrigerator - Freezer 24 cu. ft. - Frostfree
+816,10000082,Refrigerator - Freezer 24 cu. ft. - Frostfree
+917,10000092,Refrigerator - Freezer 24 cu. ft. - Frostfree
+25,10000003,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+40,10000005,Freezer - Upright/Chest 17 cu. ft
+188,10000019,Freezer - Upright/Chest 17 cu. ft
+200,10000020,Freezer - Upright/Chest 17 cu. ft
+233,10000024,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+262,10000026,Freezer - Upright/Chest 17 cu. ft
+290,10000029,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+334,10000034,Freezer - Upright/Chest 17 cu. ft
+388,10000039,Freezer - Upright/Chest 17 cu. ft
+391,10000039,Freezer - Upright/Chest 17 cu. ft
+422,10000043,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+442,10000044,Freezer - Upright/Chest 17 cu. ft
+548,10000055,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+556,10000056,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+570,10000057,Freezer - Upright/Chest 17 cu. ft
+664,10000067,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+703,10000071,Freezer - Upright/Chest 17 cu. ft
+797,10000080,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+804,10000081,Freezer - Upright/Chest 17 cu. ft
+885,10000089,Freezer - Upright/Chest 17 cu. ft
+886,10000089,Freezer - Upright/Chest 17 cu. ft
+314,10000032,Refrigerator - 21 cu.ft. - Frostfree
+344,10000034,Refrigerator - 21 cu.ft. - Frostfree
+417,10000042,Refrigerator - 21 cu.ft. - Frostfree
+492,10000050,Refrigerator - 21 cu.ft. - Frostfree
+496,10000050,Refrigerator - 21 cu.ft. - Frostfree
+532,10000054,Refrigerator - 21 cu.ft. - Frostfree
+655,10000066,Refrigerator - 21 cu.ft. - Frostfree
+729,10000073,Refrigerator - 21 cu.ft. - Frostfree
+756,10000076,Refrigerator - 21 cu.ft. - Frostfree
+171,10000018,Refrigerator - 19 cu. ft. - Frostfree
+242,10000024,Refrigerator - 19 cu. ft. - Frostfree
+250,10000025,Refrigerator - 19 cu. ft. - Frostfree
+252,10000025,Refrigerator - 19 cu. ft. - Frostfree
+261,10000026,Refrigerator - 19 cu. ft. - Frostfree
+285,10000029,Refrigerator - 19 cu. ft. - Frostfree
+359,10000036,Refrigerator - 19 cu. ft. - Frostfree
+450,10000045,Refrigerator - 19 cu. ft. - Frostfree
+491,10000050,Refrigerator - 19 cu. ft. - Frostfree
+592,10000060,Refrigerator - 19 cu. ft. - Frostfree
+639,10000064,Refrigerator - 19 cu. ft. - Frostfree
+819,10000082,Refrigerator - 19 cu. ft. - Frostfree
+850,10000086,Refrigerator - 19 cu. ft. - Frostfree
+895,10000090,Refrigerator - 19 cu. ft. - Frostfree
+926,10000093,Refrigerator - 19 cu. ft. - Frostfree
+449,10000045,Air Conditioner - 5000 BTU
+452,10000045,Air Conditioner - 5000 BTU
+818,10000082,Air Conditioner - 5000 BTU
+7,10000001,Refrigerator - 17 cu. ft - Frostfree
+9,10000001,Refrigerator - 17 cu. ft - Frostfree
+30,10000003,Refrigerator - 17 cu. ft - Frostfree
+31,10000004,Refrigerator - 17 cu. ft - Frostfree
+45,10000005,Refrigerator - 17 cu. ft - Frostfree
+84,10000009,Refrigerator - 17 cu. ft - Frostfree
+126,10000013,Refrigerator - 17 cu. ft - Frostfree
+144,10000015,Refrigerator - 17 cu. ft - Frostfree
+231,10000023,Refrigerator - 17 cu. ft - Frostfree
+297,10000030,Refrigerator - 17 cu. ft - Frostfree
+316,10000032,Refrigerator - 17 cu. ft - Frostfree
+Time Interval 4. Smart Appliances turned to Low: 
+83,10000009,Air Conditioner - 10000 BTU
+382,10000038,Air Conditioner - 10000 BTU
+947,10000096,Air Conditioner - 10000 BTU
+102,10000011,Refrigerator - Freezer 25 cu. ft. - Side by Side
+109,10000012,Refrigerator - Freezer 25 cu. ft. - Side by Side
+220,10000022,Refrigerator - Freezer 25 cu. ft. - Side by Side
+246,10000025,Refrigerator - Freezer 25 cu. ft. - Side by Side
+362,10000036,Refrigerator - Freezer 25 cu. ft. - Side by Side
+541,10000055,Refrigerator - Freezer 25 cu. ft. - Side by Side
+557,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+559,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+560,10000057,Refrigerator - Freezer 25 cu. ft. - Side by Side
+614,10000062,Refrigerator - Freezer 25 cu. ft. - Side by Side
+771,10000077,Refrigerator - Freezer 25 cu. ft. - Side by Side
+91,10000010,Refrigerator - Freezer 21 cu. ft.- Side by Side
+166,10000017,Refrigerator - Freezer 21 cu. ft.- Side by Side
+181,10000019,Refrigerator - Freezer 21 cu. ft.- Side by Side
+217,10000022,Refrigerator - Freezer 21 cu. ft.- Side by Side
+371,10000037,Refrigerator - Freezer 21 cu. ft.- Side by Side
+398,10000040,Refrigerator - Freezer 21 cu. ft.- Side by Side
+413,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+414,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+431,10000043,Refrigerator - Freezer 21 cu. ft.- Side by Side
+608,10000061,Refrigerator - Freezer 21 cu. ft.- Side by Side
+649,10000065,Refrigerator - Freezer 21 cu. ft.- Side by Side
+716,10000072,Refrigerator - Freezer 21 cu. ft.- Side by Side
+774,10000078,Refrigerator - Freezer 21 cu. ft.- Side by Side
+984,10000100,Refrigerator - Freezer 21 cu. ft.- Side by Side
+183,10000019,Air Conditioner - 7000 BTU
+326,10000033,Air Conditioner - 7000 BTU
+800,10000080,Air Conditioner - 7000 BTU
+859,10000086,Air Conditioner - 7000 BTU
+15,10000002,Refrigerator - Freezer 24 cu. ft. - Frostfree
+78,10000009,Refrigerator - Freezer 24 cu. ft. - Frostfree
+95,10000010,Refrigerator - Freezer 24 cu. ft. - Frostfree
+204,10000021,Refrigerator - Freezer 24 cu. ft. - Frostfree
+237,10000024,Refrigerator - Freezer 24 cu. ft. - Frostfree
+325,10000033,Refrigerator - Freezer 24 cu. ft. - Frostfree
+489,10000049,Refrigerator - Freezer 24 cu. ft. - Frostfree
+694,10000070,Refrigerator - Freezer 24 cu. ft. - Frostfree
+733,10000074,Refrigerator - Freezer 24 cu. ft. - Frostfree
+787,10000079,Refrigerator - Freezer 24 cu. ft. - Frostfree
+816,10000082,Refrigerator - Freezer 24 cu. ft. - Frostfree
+917,10000092,Refrigerator - Freezer 24 cu. ft. - Frostfree
+25,10000003,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+40,10000005,Freezer - Upright/Chest 17 cu. ft
+188,10000019,Freezer - Upright/Chest 17 cu. ft
+200,10000020,Freezer - Upright/Chest 17 cu. ft
+233,10000024,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+262,10000026,Freezer - Upright/Chest 17 cu. ft
+290,10000029,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+334,10000034,Freezer - Upright/Chest 17 cu. ft
+388,10000039,Freezer - Upright/Chest 17 cu. ft
+391,10000039,Freezer - Upright/Chest 17 cu. ft
+422,10000043,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+442,10000044,Freezer - Upright/Chest 17 cu. ft
+548,10000055,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+556,10000056,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+570,10000057,Freezer - Upright/Chest 17 cu. ft
+664,10000067,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+703,10000071,Freezer - Upright/Chest 17 cu. ft
+797,10000080,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+804,10000081,Freezer - Upright/Chest 17 cu. ft
+885,10000089,Freezer - Upright/Chest 17 cu. ft
+886,10000089,Freezer - Upright/Chest 17 cu. ft
+314,10000032,Refrigerator - 21 cu.ft. - Frostfree
+344,10000034,Refrigerator - 21 cu.ft. - Frostfree
+417,10000042,Refrigerator - 21 cu.ft. - Frostfree
+492,10000050,Refrigerator - 21 cu.ft. - Frostfree
+496,10000050,Refrigerator - 21 cu.ft. - Frostfree
+532,10000054,Refrigerator - 21 cu.ft. - Frostfree
+655,10000066,Refrigerator - 21 cu.ft. - Frostfree
+729,10000073,Refrigerator - 21 cu.ft. - Frostfree
+756,10000076,Refrigerator - 21 cu.ft. - Frostfree
+171,10000018,Refrigerator - 19 cu. ft. - Frostfree
+242,10000024,Refrigerator - 19 cu. ft. - Frostfree
+250,10000025,Refrigerator - 19 cu. ft. - Frostfree
+252,10000025,Refrigerator - 19 cu. ft. - Frostfree
+261,10000026,Refrigerator - 19 cu. ft. - Frostfree
+285,10000029,Refrigerator - 19 cu. ft. - Frostfree
+359,10000036,Refrigerator - 19 cu. ft. - Frostfree
+450,10000045,Refrigerator - 19 cu. ft. - Frostfree
+491,10000050,Refrigerator - 19 cu. ft. - Frostfree
+592,10000060,Refrigerator - 19 cu. ft. - Frostfree
+639,10000064,Refrigerator - 19 cu. ft. - Frostfree
+819,10000082,Refrigerator - 19 cu. ft. - Frostfree
+850,10000086,Refrigerator - 19 cu. ft. - Frostfree
+895,10000090,Refrigerator - 19 cu. ft. - Frostfree
+926,10000093,Refrigerator - 19 cu. ft. - Frostfree
+364,10000036,Air Conditioner - 5000 BTU
+421,10000042,Fan (Attic)
+449,10000045,Air Conditioner - 5000 BTU
+452,10000045,Air Conditioner - 5000 BTU
+510,10000052,Air Conditioner - 5000 BTU
+581,10000059,Air Conditioner - 5000 BTU
+611,10000061,Fan (Attic)
+750,10000075,Air Conditioner - 5000 BTU
+818,10000082,Air Conditioner - 5000 BTU
+7,10000001,Refrigerator - 17 cu. ft - Frostfree
+9,10000001,Refrigerator - 17 cu. ft - Frostfree
+30,10000003,Refrigerator - 17 cu. ft - Frostfree
+31,10000004,Refrigerator - 17 cu. ft - Frostfree
+45,10000005,Refrigerator - 17 cu. ft - Frostfree
+84,10000009,Refrigerator - 17 cu. ft - Frostfree
+126,10000013,Refrigerator - 17 cu. ft - Frostfree
+144,10000015,Refrigerator - 17 cu. ft - Frostfree
+231,10000023,Refrigerator - 17 cu. ft - Frostfree
+297,10000030,Refrigerator - 17 cu. ft - Frostfree
+316,10000032,Refrigerator - 17 cu. ft - Frostfree
+330,10000033,Refrigerator - 17 cu. ft - Frostfree
+406,10000041,Refrigerator - 17 cu. ft - Frostfree
+500,10000051,Refrigerator - 17 cu. ft - Frostfree
+601,10000060,Refrigerator - 17 cu. ft - Frostfree
+724,10000073,Refrigerator - 17 cu. ft - Frostfree
+809,10000081,Refrigerator - 17 cu. ft - Frostfree
+897,10000090,Refrigerator - 17 cu. ft - Frostfree
+898,10000091,Refrigerator - 17 cu. ft - Frostfree
+915,10000092,Refrigerator - 17 cu. ft - Frostfree
+98,10000011,Refrigerator - 14 cu. ft. - Frostfree
+110,10000012,Refrigerator - 14 cu. ft. - Frostfree
+208,10000021,Refrigerator - 14 cu. ft. - Frostfree
+439,10000044,Refrigerator - 14 cu. ft. - Frostfree
+504,10000051,Refrigerator - 14 cu. ft. - Frostfree
+507,10000051,Refrigerator - 14 cu. ft. - Frostfree
+625,10000063,Refrigerator - 14 cu. ft. - Frostfree
+666,10000067,Refrigerator - 14 cu. ft. - Frostfree
+829,10000083,Refrigerator - 14 cu. ft. - Frostfree
+928,10000094,Refrigerator - 14 cu. ft. - Frostfree
+938,10000095,Refrigerator - 14 cu. ft. - Frostfree
+968,10000098,Refrigerator - 14 cu. ft. - Frostfree
+291,10000029,Computer with Monitor
+420,10000042,Computer with Monitor
+534,10000054,Computer with Monitor
+558,10000056,Computer with Monitor
+678,10000068,Computer with Monitor
+47,10000005,Refrigerator - 14 cu. ft.
+64,10000007,Refrigerator - 14 cu. ft.
+247,10000025,Refrigerator - 14 cu. ft.
+384,10000038,Refrigerator - 14 cu. ft.
+403,10000041,Refrigerator - 14 cu. ft.
+945,10000095,Refrigerator - 14 cu. ft.
+121,10000013,Refrigerator - 1.7 cu. ft.
+177,10000018,Refrigerator - 1.7 cu. ft.
+192,10000020,Refrigerator - 1.7 cu. ft.
+350,10000035,Refrigerator - 1.7 cu. ft.
+428,10000043,Refrigerator - 1.7 cu. ft.
+467,10000047,Refrigerator - 1.7 cu. ft.
+529,10000053,Refrigerator - 1.7 cu. ft.
+593,10000060,Refrigerator - 1.7 cu. ft.
+637,10000064,Refrigerator - 1.7 cu. ft.
+751,10000075,Refrigerator - 1.7 cu. ft.
+791,10000080,Refrigerator - 1.7 cu. ft.
+869,10000088,Refrigerator - 1.7 cu. ft.
+901,10000091,Refrigerator - 1.7 cu. ft.
+912,10000092,Refrigerator - 1.7 cu. ft.
+36,10000004,Air Purifier
+59,10000007,Air Purifier
+72,10000008,Air Purifier
+120,10000013,Air Purifier
+243,10000025,Air Purifier
+277,10000028,Air Purifier
+671,10000067,Air Purifier
+707,10000071,Air Purifier
+723,10000073,Air Purifier
+857,10000086,Air Purifier
+954,10000096,Air Purifier
+643,10000065,Laptop
+Time Interval 5. Smart Appliances turned to Low: 
+943,10000095,Clothes Dryer - Electric
+216,10000022,Air Conditioner - 10000 BTU
+313,10000032,Air Conditioner - 10000 BTU
+382,10000038,Air Conditioner - 10000 BTU
+386,10000039,Air Conditioner - 10000 BTU
+652,10000065,Air Conditioner - 10000 BTU
+102,10000011,Refrigerator - Freezer 25 cu. ft. - Side by Side
+109,10000012,Refrigerator - Freezer 25 cu. ft. - Side by Side
+220,10000022,Refrigerator - Freezer 25 cu. ft. - Side by Side
+246,10000025,Refrigerator - Freezer 25 cu. ft. - Side by Side
+362,10000036,Refrigerator - Freezer 25 cu. ft. - Side by Side
+541,10000055,Refrigerator - Freezer 25 cu. ft. - Side by Side
+557,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+559,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+560,10000057,Refrigerator - Freezer 25 cu. ft. - Side by Side
+614,10000062,Refrigerator - Freezer 25 cu. ft. - Side by Side
+771,10000077,Refrigerator - Freezer 25 cu. ft. - Side by Side
+91,10000010,Refrigerator - Freezer 21 cu. ft.- Side by Side
+166,10000017,Refrigerator - Freezer 21 cu. ft.- Side by Side
+181,10000019,Refrigerator - Freezer 21 cu. ft.- Side by Side
+217,10000022,Refrigerator - Freezer 21 cu. ft.- Side by Side
+371,10000037,Refrigerator - Freezer 21 cu. ft.- Side by Side
+398,10000040,Refrigerator - Freezer 21 cu. ft.- Side by Side
+413,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+414,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+431,10000043,Refrigerator - Freezer 21 cu. ft.- Side by Side
+608,10000061,Refrigerator - Freezer 21 cu. ft.- Side by Side
+649,10000065,Refrigerator - Freezer 21 cu. ft.- Side by Side
+716,10000072,Refrigerator - Freezer 21 cu. ft.- Side by Side
+774,10000078,Refrigerator - Freezer 21 cu. ft.- Side by Side
+984,10000100,Refrigerator - Freezer 21 cu. ft.- Side by Side
+183,10000019,Air Conditioner - 7000 BTU
+800,10000080,Air Conditioner - 7000 BTU
+868,10000087,Air Conditioner - 7000 BTU
+880,10000089,Air Conditioner - 7000 BTU
+15,10000002,Refrigerator - Freezer 24 cu. ft. - Frostfree
+78,10000009,Refrigerator - Freezer 24 cu. ft. - Frostfree
+95,10000010,Refrigerator - Freezer 24 cu. ft. - Frostfree
+204,10000021,Refrigerator - Freezer 24 cu. ft. - Frostfree
+237,10000024,Refrigerator - Freezer 24 cu. ft. - Frostfree
+325,10000033,Refrigerator - Freezer 24 cu. ft. - Frostfree
+489,10000049,Refrigerator - Freezer 24 cu. ft. - Frostfree
+694,10000070,Refrigerator - Freezer 24 cu. ft. - Frostfree
+733,10000074,Refrigerator - Freezer 24 cu. ft. - Frostfree
+787,10000079,Refrigerator - Freezer 24 cu. ft. - Frostfree
+816,10000082,Refrigerator - Freezer 24 cu. ft. - Frostfree
+917,10000092,Refrigerator - Freezer 24 cu. ft. - Frostfree
+25,10000003,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+40,10000005,Freezer - Upright/Chest 17 cu. ft
+188,10000019,Freezer - Upright/Chest 17 cu. ft
+200,10000020,Freezer - Upright/Chest 17 cu. ft
+233,10000024,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+262,10000026,Freezer - Upright/Chest 17 cu. ft
+290,10000029,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+334,10000034,Freezer - Upright/Chest 17 cu. ft
+388,10000039,Freezer - Upright/Chest 17 cu. ft
+391,10000039,Freezer - Upright/Chest 17 cu. ft
+422,10000043,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+442,10000044,Freezer - Upright/Chest 17 cu. ft
+548,10000055,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+556,10000056,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+570,10000057,Freezer - Upright/Chest 17 cu. ft
+664,10000067,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+703,10000071,Freezer - Upright/Chest 17 cu. ft
+797,10000080,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+804,10000081,Freezer - Upright/Chest 17 cu. ft
+885,10000089,Freezer - Upright/Chest 17 cu. ft
+886,10000089,Freezer - Upright/Chest 17 cu. ft
+314,10000032,Refrigerator - 21 cu.ft. - Frostfree
+344,10000034,Refrigerator - 21 cu.ft. - Frostfree
+417,10000042,Refrigerator - 21 cu.ft. - Frostfree
+492,10000050,Refrigerator - 21 cu.ft. - Frostfree
+496,10000050,Refrigerator - 21 cu.ft. - Frostfree
+532,10000054,Refrigerator - 21 cu.ft. - Frostfree
+655,10000066,Refrigerator - 21 cu.ft. - Frostfree
+729,10000073,Refrigerator - 21 cu.ft. - Frostfree
+756,10000076,Refrigerator - 21 cu.ft. - Frostfree
+171,10000018,Refrigerator - 19 cu. ft. - Frostfree
+242,10000024,Refrigerator - 19 cu. ft. - Frostfree
+250,10000025,Refrigerator - 19 cu. ft. - Frostfree
+252,10000025,Refrigerator - 19 cu. ft. - Frostfree
+261,10000026,Refrigerator - 19 cu. ft. - Frostfree
+285,10000029,Refrigerator - 19 cu. ft. - Frostfree
+359,10000036,Refrigerator - 19 cu. ft. - Frostfree
+450,10000045,Refrigerator - 19 cu. ft. - Frostfree
+491,10000050,Refrigerator - 19 cu. ft. - Frostfree
+592,10000060,Refrigerator - 19 cu. ft. - Frostfree
+639,10000064,Refrigerator - 19 cu. ft. - Frostfree
+819,10000082,Refrigerator - 19 cu. ft. - Frostfree
+850,10000086,Refrigerator - 19 cu. ft. - Frostfree
+895,10000090,Refrigerator - 19 cu. ft. - Frostfree
+926,10000093,Refrigerator - 19 cu. ft. - Frostfree
+149,10000015,Air Conditioner - 5000 BTU
+163,10000017,Air Conditioner - 5000 BTU
+258,10000026,Fan (Attic)
+436,10000044,Fan (Attic)
+452,10000045,Air Conditioner - 5000 BTU
+776,10000078,Fan (Attic)
+818,10000082,Air Conditioner - 5000 BTU
+7,10000001,Refrigerator - 17 cu. ft - Frostfree
+9,10000001,Refrigerator - 17 cu. ft - Frostfree
+30,10000003,Refrigerator - 17 cu. ft - Frostfree
+31,10000004,Refrigerator - 17 cu. ft - Frostfree
+45,10000005,Refrigerator - 17 cu. ft - Frostfree
+84,10000009,Refrigerator - 17 cu. ft - Frostfree
+126,10000013,Refrigerator - 17 cu. ft - Frostfree
+144,10000015,Refrigerator - 17 cu. ft - Frostfree
+231,10000023,Refrigerator - 17 cu. ft - Frostfree
+297,10000030,Refrigerator - 17 cu. ft - Frostfree
+316,10000032,Refrigerator - 17 cu. ft - Frostfree
+330,10000033,Refrigerator - 17 cu. ft - Frostfree
+406,10000041,Refrigerator - 17 cu. ft - Frostfree
+500,10000051,Refrigerator - 17 cu. ft - Frostfree
+601,10000060,Refrigerator - 17 cu. ft - Frostfree
+724,10000073,Refrigerator - 17 cu. ft - Frostfree
+809,10000081,Refrigerator - 17 cu. ft - Frostfree
+897,10000090,Refrigerator - 17 cu. ft - Frostfree
+898,10000091,Refrigerator - 17 cu. ft - Frostfree
+915,10000092,Refrigerator - 17 cu. ft - Frostfree
+98,10000011,Refrigerator - 14 cu. ft. - Frostfree
+110,10000012,Refrigerator - 14 cu. ft. - Frostfree
+208,10000021,Refrigerator - 14 cu. ft. - Frostfree
+439,10000044,Refrigerator - 14 cu. ft. - Frostfree
+504,10000051,Refrigerator - 14 cu. ft. - Frostfree
+507,10000051,Refrigerator - 14 cu. ft. - Frostfree
+625,10000063,Refrigerator - 14 cu. ft. - Frostfree
+666,10000067,Refrigerator - 14 cu. ft. - Frostfree
+829,10000083,Refrigerator - 14 cu. ft. - Frostfree
+928,10000094,Refrigerator - 14 cu. ft. - Frostfree
+938,10000095,Refrigerator - 14 cu. ft. - Frostfree
+968,10000098,Refrigerator - 14 cu. ft. - Frostfree
+62,10000007,Computer with Monitor
+420,10000042,Computer with Monitor
+558,10000056,Computer with Monitor
+678,10000068,Computer with Monitor
+47,10000005,Refrigerator - 14 cu. ft.
+64,10000007,Refrigerator - 14 cu. ft.
+247,10000025,Refrigerator - 14 cu. ft.
+384,10000038,Refrigerator - 14 cu. ft.
+403,10000041,Refrigerator - 14 cu. ft.
+945,10000095,Refrigerator - 14 cu. ft.
+121,10000013,Refrigerator - 1.7 cu. ft.
+177,10000018,Refrigerator - 1.7 cu. ft.
+192,10000020,Refrigerator - 1.7 cu. ft.
+350,10000035,Refrigerator - 1.7 cu. ft.
+428,10000043,Refrigerator - 1.7 cu. ft.
+467,10000047,Refrigerator - 1.7 cu. ft.
+529,10000053,Refrigerator - 1.7 cu. ft.
+593,10000060,Refrigerator - 1.7 cu. ft.
+637,10000064,Refrigerator - 1.7 cu. ft.
+751,10000075,Refrigerator - 1.7 cu. ft.
+791,10000080,Refrigerator - 1.7 cu. ft.
+869,10000088,Refrigerator - 1.7 cu. ft.
+901,10000091,Refrigerator - 1.7 cu. ft.
+912,10000092,Refrigerator - 1.7 cu. ft.
+36,10000004,Air Purifier
+59,10000007,Air Purifier
+72,10000008,Air Purifier
+120,10000013,Air Purifier
+243,10000025,Air Purifier
+277,10000028,Air Purifier
+671,10000067,Air Purifier
+707,10000071,Air Purifier
+723,10000073,Air Purifier
+857,10000086,Air Purifier
+954,10000096,Air Purifier
+49,10000006,Laptop
+363,10000036,Laptop
+Time Interval 6. Smart Appliances turned to Low: 
+992,10000100,Clothes Dryer - Electric
+83,10000009,Air Conditioner - 10000 BTU
+382,10000038,Air Conditioner - 10000 BTU
+587,10000059,Air Conditioner - 10000 BTU
+734,10000074,Air Conditioner - 10000 BTU
+854,10000086,Air Conditioner - 10000 BTU
+102,10000011,Refrigerator - Freezer 25 cu. ft. - Side by Side
+109,10000012,Refrigerator - Freezer 25 cu. ft. - Side by Side
+220,10000022,Refrigerator - Freezer 25 cu. ft. - Side by Side
+246,10000025,Refrigerator - Freezer 25 cu. ft. - Side by Side
+362,10000036,Refrigerator - Freezer 25 cu. ft. - Side by Side
+541,10000055,Refrigerator - Freezer 25 cu. ft. - Side by Side
+557,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+559,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+560,10000057,Refrigerator - Freezer 25 cu. ft. - Side by Side
+614,10000062,Refrigerator - Freezer 25 cu. ft. - Side by Side
+771,10000077,Refrigerator - Freezer 25 cu. ft. - Side by Side
+91,10000010,Refrigerator - Freezer 21 cu. ft.- Side by Side
+166,10000017,Refrigerator - Freezer 21 cu. ft.- Side by Side
+181,10000019,Refrigerator - Freezer 21 cu. ft.- Side by Side
+217,10000022,Refrigerator - Freezer 21 cu. ft.- Side by Side
+371,10000037,Refrigerator - Freezer 21 cu. ft.- Side by Side
+398,10000040,Refrigerator - Freezer 21 cu. ft.- Side by Side
+413,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+414,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+431,10000043,Refrigerator - Freezer 21 cu. ft.- Side by Side
+608,10000061,Refrigerator - Freezer 21 cu. ft.- Side by Side
+649,10000065,Refrigerator - Freezer 21 cu. ft.- Side by Side
+716,10000072,Refrigerator - Freezer 21 cu. ft.- Side by Side
+774,10000078,Refrigerator - Freezer 21 cu. ft.- Side by Side
+984,10000100,Refrigerator - Freezer 21 cu. ft.- Side by Side
+183,10000019,Air Conditioner - 7000 BTU
+326,10000033,Air Conditioner - 7000 BTU
+495,10000050,Air Conditioner - 7000 BTU
+859,10000086,Air Conditioner - 7000 BTU
+15,10000002,Refrigerator - Freezer 24 cu. ft. - Frostfree
+78,10000009,Refrigerator - Freezer 24 cu. ft. - Frostfree
+95,10000010,Refrigerator - Freezer 24 cu. ft. - Frostfree
+204,10000021,Refrigerator - Freezer 24 cu. ft. - Frostfree
+237,10000024,Refrigerator - Freezer 24 cu. ft. - Frostfree
+325,10000033,Refrigerator - Freezer 24 cu. ft. - Frostfree
+489,10000049,Refrigerator - Freezer 24 cu. ft. - Frostfree
+694,10000070,Refrigerator - Freezer 24 cu. ft. - Frostfree
+733,10000074,Refrigerator - Freezer 24 cu. ft. - Frostfree
+787,10000079,Refrigerator - Freezer 24 cu. ft. - Frostfree
+816,10000082,Refrigerator - Freezer 24 cu. ft. - Frostfree
+917,10000092,Refrigerator - Freezer 24 cu. ft. - Frostfree
+25,10000003,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+40,10000005,Freezer - Upright/Chest 17 cu. ft
+188,10000019,Freezer - Upright/Chest 17 cu. ft
+200,10000020,Freezer - Upright/Chest 17 cu. ft
+233,10000024,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+262,10000026,Freezer - Upright/Chest 17 cu. ft
+290,10000029,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+334,10000034,Freezer - Upright/Chest 17 cu. ft
+388,10000039,Freezer - Upright/Chest 17 cu. ft
+391,10000039,Freezer - Upright/Chest 17 cu. ft
+422,10000043,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+442,10000044,Freezer - Upright/Chest 17 cu. ft
+548,10000055,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+556,10000056,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+570,10000057,Freezer - Upright/Chest 17 cu. ft
+664,10000067,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+703,10000071,Freezer - Upright/Chest 17 cu. ft
+797,10000080,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+804,10000081,Freezer - Upright/Chest 17 cu. ft
+885,10000089,Freezer - Upright/Chest 17 cu. ft
+886,10000089,Freezer - Upright/Chest 17 cu. ft
+314,10000032,Refrigerator - 21 cu.ft. - Frostfree
+344,10000034,Refrigerator - 21 cu.ft. - Frostfree
+417,10000042,Refrigerator - 21 cu.ft. - Frostfree
+492,10000050,Refrigerator - 21 cu.ft. - Frostfree
+496,10000050,Refrigerator - 21 cu.ft. - Frostfree
+532,10000054,Refrigerator - 21 cu.ft. - Frostfree
+655,10000066,Refrigerator - 21 cu.ft. - Frostfree
+729,10000073,Refrigerator - 21 cu.ft. - Frostfree
+756,10000076,Refrigerator - 21 cu.ft. - Frostfree
+171,10000018,Refrigerator - 19 cu. ft. - Frostfree
+242,10000024,Refrigerator - 19 cu. ft. - Frostfree
+250,10000025,Refrigerator - 19 cu. ft. - Frostfree
+252,10000025,Refrigerator - 19 cu. ft. - Frostfree
+261,10000026,Refrigerator - 19 cu. ft. - Frostfree
+285,10000029,Refrigerator - 19 cu. ft. - Frostfree
+359,10000036,Refrigerator - 19 cu. ft. - Frostfree
+450,10000045,Refrigerator - 19 cu. ft. - Frostfree
+491,10000050,Refrigerator - 19 cu. ft. - Frostfree
+592,10000060,Refrigerator - 19 cu. ft. - Frostfree
+639,10000064,Refrigerator - 19 cu. ft. - Frostfree
+819,10000082,Refrigerator - 19 cu. ft. - Frostfree
+850,10000086,Refrigerator - 19 cu. ft. - Frostfree
+895,10000090,Refrigerator - 19 cu. ft. - Frostfree
+926,10000093,Refrigerator - 19 cu. ft. - Frostfree
+531,10000054,Air Conditioner - 5000 BTU
+581,10000059,Air Conditioner - 5000 BTU
+7,10000001,Refrigerator - 17 cu. ft - Frostfree
+9,10000001,Refrigerator - 17 cu. ft - Frostfree
+30,10000003,Refrigerator - 17 cu. ft - Frostfree
+31,10000004,Refrigerator - 17 cu. ft - Frostfree
+45,10000005,Refrigerator - 17 cu. ft - Frostfree
+84,10000009,Refrigerator - 17 cu. ft - Frostfree
+126,10000013,Refrigerator - 17 cu. ft - Frostfree
+144,10000015,Refrigerator - 17 cu. ft - Frostfree
+231,10000023,Refrigerator - 17 cu. ft - Frostfree
+297,10000030,Refrigerator - 17 cu. ft - Frostfree
+316,10000032,Refrigerator - 17 cu. ft - Frostfree
+330,10000033,Refrigerator - 17 cu. ft - Frostfree
+406,10000041,Refrigerator - 17 cu. ft - Frostfree
+500,10000051,Refrigerator - 17 cu. ft - Frostfree
+601,10000060,Refrigerator - 17 cu. ft - Frostfree
+724,10000073,Refrigerator - 17 cu. ft - Frostfree
+809,10000081,Refrigerator - 17 cu. ft - Frostfree
+897,10000090,Refrigerator - 17 cu. ft - Frostfree
+898,10000091,Refrigerator - 17 cu. ft - Frostfree
+915,10000092,Refrigerator - 17 cu. ft - Frostfree
+98,10000011,Refrigerator - 14 cu. ft. - Frostfree
+110,10000012,Refrigerator - 14 cu. ft. - Frostfree
+208,10000021,Refrigerator - 14 cu. ft. - Frostfree
+439,10000044,Refrigerator - 14 cu. ft. - Frostfree
+504,10000051,Refrigerator - 14 cu. ft. - Frostfree
+507,10000051,Refrigerator - 14 cu. ft. - Frostfree
+625,10000063,Refrigerator - 14 cu. ft. - Frostfree
+666,10000067,Refrigerator - 14 cu. ft. - Frostfree
+829,10000083,Refrigerator - 14 cu. ft. - Frostfree
+928,10000094,Refrigerator - 14 cu. ft. - Frostfree
+938,10000095,Refrigerator - 14 cu. ft. - Frostfree
+968,10000098,Refrigerator - 14 cu. ft. - Frostfree
+62,10000007,Computer with Monitor
+291,10000029,Computer with Monitor
+420,10000042,Computer with Monitor
+534,10000054,Computer with Monitor
+558,10000056,Computer with Monitor
+990,10000100,Computer with Monitor
+47,10000005,Refrigerator - 14 cu. ft.
+64,10000007,Refrigerator - 14 cu. ft.
+247,10000025,Refrigerator - 14 cu. ft.
+384,10000038,Refrigerator - 14 cu. ft.
+403,10000041,Refrigerator - 14 cu. ft.
+945,10000095,Refrigerator - 14 cu. ft.
+121,10000013,Refrigerator - 1.7 cu. ft.
+177,10000018,Refrigerator - 1.7 cu. ft.
+192,10000020,Refrigerator - 1.7 cu. ft.
+350,10000035,Refrigerator - 1.7 cu. ft.
+428,10000043,Refrigerator - 1.7 cu. ft.
+467,10000047,Refrigerator - 1.7 cu. ft.
+529,10000053,Refrigerator - 1.7 cu. ft.
+593,10000060,Refrigerator - 1.7 cu. ft.
+637,10000064,Refrigerator - 1.7 cu. ft.
+751,10000075,Refrigerator - 1.7 cu. ft.
+791,10000080,Refrigerator - 1.7 cu. ft.
+869,10000088,Refrigerator - 1.7 cu. ft.
+901,10000091,Refrigerator - 1.7 cu. ft.
+912,10000092,Refrigerator - 1.7 cu. ft.
+36,10000004,Air Purifier
+59,10000007,Air Purifier
+72,10000008,Air Purifier
+120,10000013,Air Purifier
+243,10000025,Air Purifier
+277,10000028,Air Purifier
+671,10000067,Air Purifier
+707,10000071,Air Purifier
+723,10000073,Air Purifier
+857,10000086,Air Purifier
+954,10000096,Air Purifier
+509,10000052,Laptop
+758,10000076,Laptop
+Time Interval 7. Smart Appliances turned to Low: 
+667,10000067,Clothes Washer
+151,10000016,Air Conditioner - 10000 BTU
+313,10000032,Air Conditioner - 10000 BTU
+854,10000086,Air Conditioner - 10000 BTU
+102,10000011,Refrigerator - Freezer 25 cu. ft. - Side by Side
+109,10000012,Refrigerator - Freezer 25 cu. ft. - Side by Side
+220,10000022,Refrigerator - Freezer 25 cu. ft. - Side by Side
+246,10000025,Refrigerator - Freezer 25 cu. ft. - Side by Side
+362,10000036,Refrigerator - Freezer 25 cu. ft. - Side by Side
+541,10000055,Refrigerator - Freezer 25 cu. ft. - Side by Side
+557,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+559,10000056,Refrigerator - Freezer 25 cu. ft. - Side by Side
+560,10000057,Refrigerator - Freezer 25 cu. ft. - Side by Side
+614,10000062,Refrigerator - Freezer 25 cu. ft. - Side by Side
+771,10000077,Refrigerator - Freezer 25 cu. ft. - Side by Side
+91,10000010,Refrigerator - Freezer 21 cu. ft.- Side by Side
+166,10000017,Refrigerator - Freezer 21 cu. ft.- Side by Side
+181,10000019,Refrigerator - Freezer 21 cu. ft.- Side by Side
+217,10000022,Refrigerator - Freezer 21 cu. ft.- Side by Side
+371,10000037,Refrigerator - Freezer 21 cu. ft.- Side by Side
+398,10000040,Refrigerator - Freezer 21 cu. ft.- Side by Side
+413,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+414,10000042,Refrigerator - Freezer 21 cu. ft.- Side by Side
+431,10000043,Refrigerator - Freezer 21 cu. ft.- Side by Side
+608,10000061,Refrigerator - Freezer 21 cu. ft.- Side by Side
+649,10000065,Refrigerator - Freezer 21 cu. ft.- Side by Side
+716,10000072,Refrigerator - Freezer 21 cu. ft.- Side by Side
+774,10000078,Refrigerator - Freezer 21 cu. ft.- Side by Side
+984,10000100,Refrigerator - Freezer 21 cu. ft.- Side by Side
+183,10000019,Air Conditioner - 7000 BTU
+457,10000046,Air Conditioner - 7000 BTU
+553,10000056,Air Conditioner - 7000 BTU
+805,10000081,Air Conditioner - 7000 BTU
+880,10000089,Air Conditioner - 7000 BTU
+15,10000002,Refrigerator - Freezer 24 cu. ft. - Frostfree
+78,10000009,Refrigerator - Freezer 24 cu. ft. - Frostfree
+95,10000010,Refrigerator - Freezer 24 cu. ft. - Frostfree
+204,10000021,Refrigerator - Freezer 24 cu. ft. - Frostfree
+237,10000024,Refrigerator - Freezer 24 cu. ft. - Frostfree
+325,10000033,Refrigerator - Freezer 24 cu. ft. - Frostfree
+489,10000049,Refrigerator - Freezer 24 cu. ft. - Frostfree
+694,10000070,Refrigerator - Freezer 24 cu. ft. - Frostfree
+733,10000074,Refrigerator - Freezer 24 cu. ft. - Frostfree
+787,10000079,Refrigerator - Freezer 24 cu. ft. - Frostfree
+816,10000082,Refrigerator - Freezer 24 cu. ft. - Frostfree
+917,10000092,Refrigerator - Freezer 24 cu. ft. - Frostfree
+25,10000003,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+40,10000005,Freezer - Upright/Chest 17 cu. ft
+188,10000019,Freezer - Upright/Chest 17 cu. ft
+200,10000020,Freezer - Upright/Chest 17 cu. ft
+233,10000024,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+262,10000026,Freezer - Upright/Chest 17 cu. ft
+290,10000029,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+334,10000034,Freezer - Upright/Chest 17 cu. ft
+388,10000039,Freezer - Upright/Chest 17 cu. ft
+391,10000039,Freezer - Upright/Chest 17 cu. ft
+422,10000043,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+442,10000044,Freezer - Upright/Chest 17 cu. ft
+548,10000055,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+556,10000056,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+570,10000057,Freezer - Upright/Chest 17 cu. ft
+664,10000067,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+703,10000071,Freezer - Upright/Chest 17 cu. ft
+797,10000080,Freezer - Upright/Chest 17 cu.ft. - Frostfree
+804,10000081,Freezer - Upright/Chest 17 cu. ft
+885,10000089,Freezer - Upright/Chest 17 cu. ft
+886,10000089,Freezer - Upright/Chest 17 cu. ft
+314,10000032,Refrigerator - 21 cu.ft. - Frostfree
+344,10000034,Refrigerator - 21 cu.ft. - Frostfree
+417,10000042,Refrigerator - 21 cu.ft. - Frostfree
+492,10000050,Refrigerator - 21 cu.ft. - Frostfree
+496,10000050,Refrigerator - 21 cu.ft. - Frostfree
+532,10000054,Refrigerator - 21 cu.ft. - Frostfree
+655,10000066,Refrigerator - 21 cu.ft. - Frostfree
+729,10000073,Refrigerator - 21 cu.ft. - Frostfree
+756,10000076,Refrigerator - 21 cu.ft. - Frostfree
+171,10000018,Refrigerator - 19 cu. ft. - Frostfree
+242,10000024,Refrigerator - 19 cu. ft. - Frostfree
+250,10000025,Refrigerator - 19 cu. ft. - Frostfree
+252,10000025,Refrigerator - 19 cu. ft. - Frostfree
+261,10000026,Refrigerator - 19 cu. ft. - Frostfree
+285,10000029,Refrigerator - 19 cu. ft. - Frostfree
+359,10000036,Refrigerator - 19 cu. ft. - Frostfree
+450,10000045,Refrigerator - 19 cu. ft. - Frostfree
+491,10000050,Refrigerator - 19 cu. ft. - Frostfree
+592,10000060,Refrigerator - 19 cu. ft. - Frostfree
+639,10000064,Refrigerator - 19 cu. ft. - Frostfree
+819,10000082,Refrigerator - 19 cu. ft. - Frostfree
+850,10000086,Refrigerator - 19 cu. ft. - Frostfree
+895,10000090,Refrigerator - 19 cu. ft. - Frostfree
+926,10000093,Refrigerator - 19 cu. ft. - Frostfree
+149,10000015,Air Conditioner - 5000 BTU
+449,10000045,Air Conditioner - 5000 BTU
+7,10000001,Refrigerator - 17 cu. ft - Frostfree
+9,10000001,Refrigerator - 17 cu. ft - Frostfree
+30,10000003,Refrigerator - 17 cu. ft - Frostfree
+31,10000004,Refrigerator - 17 cu. ft - Frostfree
+45,10000005,Refrigerator - 17 cu. ft - Frostfree
+84,10000009,Refrigerator - 17 cu. ft - Frostfree
+126,10000013,Refrigerator - 17 cu. ft - Frostfree
+144,10000015,Refrigerator - 17 cu. ft - Frostfree
+231,10000023,Refrigerator - 17 cu. ft - Frostfree
+297,10000030,Refrigerator - 17 cu. ft - Frostfree
+316,10000032,Refrigerator - 17 cu. ft - Frostfree
+330,10000033,Refrigerator - 17 cu. ft - Frostfree
+406,10000041,Refrigerator - 17 cu. ft - Frostfree
+500,10000051,Refrigerator - 17 cu. ft - Frostfree
+601,10000060,Refrigerator - 17 cu. ft - Frostfree
+724,10000073,Refrigerator - 17 cu. ft - Frostfree
+809,10000081,Refrigerator - 17 cu. ft - Frostfree
+897,10000090,Refrigerator - 17 cu. ft - Frostfree
+898,10000091,Refrigerator - 17 cu. ft - Frostfree
+915,10000092,Refrigerator - 17 cu. ft - Frostfree
+98,10000011,Refrigerator - 14 cu. ft. - Frostfree
+110,10000012,Refrigerator - 14 cu. ft. - Frostfree
+208,10000021,Refrigerator - 14 cu. ft. - Frostfree
+439,10000044,Refrigerator - 14 cu. ft. - Frostfree
+504,10000051,Refrigerator - 14 cu. ft. - Frostfree
+507,10000051,Refrigerator - 14 cu. ft. - Frostfree
+625,10000063,Refrigerator - 14 cu. ft. - Frostfree
+666,10000067,Refrigerator - 14 cu. ft. - Frostfree
+829,10000083,Refrigerator - 14 cu. ft. - Frostfree
+928,10000094,Refrigerator - 14 cu. ft. - Frostfree
+938,10000095,Refrigerator - 14 cu. ft. - Frostfree
+968,10000098,Refrigerator - 14 cu. ft. - Frostfree
+291,10000029,Computer with Monitor
+420,10000042,Computer with Monitor
+534,10000054,Computer with Monitor
+678,10000068,Computer with Monitor
+47,10000005,Refrigerator - 14 cu. ft.
+64,10000007,Refrigerator - 14 cu. ft.
+247,10000025,Refrigerator - 14 cu. ft.
+384,10000038,Refrigerator - 14 cu. ft.
+403,10000041,Refrigerator - 14 cu. ft.
+945,10000095,Refrigerator - 14 cu. ft.
+121,10000013,Refrigerator - 1.7 cu. ft.
+177,10000018,Refrigerator - 1.7 cu. ft.
+192,10000020,Refrigerator - 1.7 cu. ft.
+350,10000035,Refrigerator - 1.7 cu. ft.
+428,10000043,Refrigerator - 1.7 cu. ft.
+467,10000047,Refrigerator - 1.7 cu. ft.
+529,10000053,Refrigerator - 1.7 cu. ft.
+593,10000060,Refrigerator - 1.7 cu. ft.
+637,10000064,Refrigerator - 1.7 cu. ft.
+751,10000075,Refrigerator - 1.7 cu. ft.
+791,10000080,Refrigerator - 1.7 cu. ft.
+869,10000088,Refrigerator - 1.7 cu. ft.
+901,10000091,Refrigerator - 1.7 cu. ft.
+912,10000092,Refrigerator - 1.7 cu. ft.
+36,10000004,Air Purifier
+59,10000007,Air Purifier
+72,10000008,Air Purifier
+120,10000013,Air Purifier
+243,10000025,Air Purifier
+277,10000028,Air Purifier
+671,10000067,Air Purifier
+707,10000071,Air Purifier
+723,10000073,Air Purifier
+857,10000086,Air Purifier
+954,10000096,Air Purifier
+249,10000025,Laptop
+305,10000031,Laptop
+Time Interval 1. Locations Browned out: 
+10000023, 10000058, 10000059, 10000048, 10000049, 10000047, 10000038, 10000079, 10000065, 10000070, 
+Time Interval 2. Locations Browned out: 
+10000027, 10000054, 10000047, 10000083, 10000070, 10000097, 10000099, 10000016, 10000023, 10000015, 10000001, 10000049, 10000046, 10000034, 
+Time Interval 4. Locations Browned out: 
+10000006, 10000059, 10000048, 10000074, 10000027, 10000023, 10000001, 10000049, 10000047, 10000035, 10000088, 10000091, 10000094, 10000083, 10000085, 10000070, 10000097, 10000099, 10000100, 10000028, 10000016, 10000017, 10000022, 
+Time Interval 5. Locations Browned out: 
+10000023, 10000062, 10000048, 10000049, 10000047, 10000085, 10000099, 10000100, 10000016, 10000018, 10000009, 10000001, 10000053, 10000040, 10000035, 10000037, 10000088, 10000091, 10000083, 10000076, 10000079, 
+Time Interval 6. Locations Browned out: 
+10000027, 10000023, 10000014, 10000006, 10000048, 10000049, 10000035, 10000099, 10000026, 10000030, 10000016, 10000015, 10000003, 10000053, 10000032, 10000037, 10000089, 10000080, 10000083, 10000084, 10000085, 10000074, 10000079, 
+Time Interval 7. Locations Browned out: 
+10000023, 10000049, 10000083, 10000070, 10000026, 10000027, 10000028, 10000030, 10000018, 10000009, 10000014, 10000001, 10000006, 
